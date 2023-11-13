@@ -1,6 +1,6 @@
 ### Hi there, I am Shreya Venkatesh 👋
 
-I'm an enthusiastic developer. Enthusiastic to learn new things.
+I'm an passionate developer. Enthusiastic to learn new things.
 
 ### GitHub Stats
 
